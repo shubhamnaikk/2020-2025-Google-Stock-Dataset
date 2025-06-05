@@ -1,5 +1,7 @@
 # GOOGL 5-Year Stock EDA
 
+![GOOGL 5-Year Stock EDA](image.jpeg)
+
 This repository contains everything needed to perform Exploratory Data Analysis (EDA) on a 5-year historical stock price dataset for Google LLC (Ticker: GOOGL). The analysis is provided as a Jupyter notebook, with instructions to run it in Visual Studio Code (VS Code).
 
 ---
