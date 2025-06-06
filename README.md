@@ -1,4 +1,4 @@
-# GOOGL 5-Year Stock EDAwewe
+# GOOGL 5-Year Stock EDA
 
 ![GOOGL 5-Year Stock EDA](image.jpeg)
 
